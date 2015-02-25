@@ -1,0 +1,93 @@
+D:\Users\!TK!\Desktop\kamalesh\DBMS_proj\DBMS_proj\bin\Release\database.accdb
+D:\Users\!TK!\Desktop\kamalesh\DBMS_proj\DBMS_proj\bin\Release\DBMS_proj.exe.config
+D:\Users\!TK!\Desktop\kamalesh\DBMS_proj\DBMS_proj\bin\Release\DBMS_proj.exe.manifest
+D:\Users\!TK!\Desktop\kamalesh\DBMS_proj\DBMS_proj\bin\Release\DBMS_proj.application
+D:\Users\!TK!\Desktop\kamalesh\DBMS_proj\DBMS_proj\bin\Release\DBMS_proj.exe
+D:\Users\!TK!\Desktop\kamalesh\DBMS_proj\DBMS_proj\bin\Release\DBMS_proj.pdb
+D:\Users\!TK!\Desktop\kamalesh\DBMS_proj\DBMS_proj\bin\Release\DBMS_proj.xml
+D:\Users\!TK!\Desktop\kamalesh\DBMS_proj\DBMS_proj\obj\Release\ResolveAssemblyReference.cache
+D:\Users\!TK!\Desktop\kamalesh\DBMS_proj\DBMS_proj\obj\Release\WindowsApplication1.admin_window.resources
+D:\Users\!TK!\Desktop\kamalesh\DBMS_proj\DBMS_proj\obj\Release\WindowsApplication1.assignment.resources
+D:\Users\!TK!\Desktop\kamalesh\DBMS_proj\DBMS_proj\obj\Release\WindowsApplication1.Edit_staff_det.resources
+D:\Users\!TK!\Desktop\kamalesh\DBMS_proj\DBMS_proj\obj\Release\WindowsApplication1.Edit_stud_det.resources
+D:\Users\!TK!\Desktop\kamalesh\DBMS_proj\DBMS_proj\obj\Release\WindowsApplication1.chngpwd.resources
+D:\Users\!TK!\Desktop\kamalesh\DBMS_proj\DBMS_proj\obj\Release\WindowsApplication1.maketest.resources
+D:\Users\!TK!\Desktop\kamalesh\DBMS_proj\DBMS_proj\obj\Release\WindowsApplication1.newadmission.resources
+D:\Users\!TK!\Desktop\kamalesh\DBMS_proj\DBMS_proj\obj\Release\WindowsApplication1.newstafff.resources
+D:\Users\!TK!\Desktop\kamalesh\DBMS_proj\DBMS_proj\obj\Release\WindowsApplication1.posttest1.resources
+D:\Users\!TK!\Desktop\kamalesh\DBMS_proj\DBMS_proj\obj\Release\WindowsApplication1.post_assgn.resources
+D:\Users\!TK!\Desktop\kamalesh\DBMS_proj\DBMS_proj\obj\Release\WindowsApplication1.LoginForm1.resources
+D:\Users\!TK!\Desktop\kamalesh\DBMS_proj\DBMS_proj\obj\Release\WindowsApplication1.Resources.resources
+D:\Users\!TK!\Desktop\kamalesh\DBMS_proj\DBMS_proj\obj\Release\WindowsApplication1.Staff.resources
+D:\Users\!TK!\Desktop\kamalesh\DBMS_proj\DBMS_proj\obj\Release\WindowsApplication1.Student.resources
+D:\Users\!TK!\Desktop\kamalesh\DBMS_proj\DBMS_proj\obj\Release\WindowsApplication1.test1.resources
+D:\Users\!TK!\Desktop\kamalesh\DBMS_proj\DBMS_proj\obj\Release\WindowsApplication1.testform.resources
+D:\Users\!TK!\Desktop\kamalesh\DBMS_proj\DBMS_proj\obj\Release\WindowsApplication1.upd_student.resources
+D:\Users\!TK!\Desktop\kamalesh\DBMS_proj\DBMS_proj\obj\Release\DBMS_proj.vbproj.GenerateResource.Cache
+D:\Users\!TK!\Desktop\kamalesh\DBMS_proj\DBMS_proj\obj\Release\DBMS_proj.exe.manifest
+D:\Users\!TK!\Desktop\kamalesh\DBMS_proj\DBMS_proj\obj\Release\DBMS_proj.application
+D:\Users\!TK!\Desktop\kamalesh\DBMS_proj\DBMS_proj\obj\Release\DBMS_proj.exe
+D:\Users\!TK!\Desktop\kamalesh\DBMS_proj\DBMS_proj\obj\Release\DBMS_proj.xml
+D:\Users\!TK!\Desktop\kamalesh\DBMS_proj\DBMS_proj\obj\Release\DBMS_proj.pdb
+D:\Users\!TK!\Desktop\S.I.M.S\DBMS_proj\DBMS_proj\bin\Release\database.accdb
+D:\Users\!TK!\Desktop\S.I.M.S\DBMS_proj\DBMS_proj\bin\Release\DBMS_proj.exe.config
+D:\Users\!TK!\Desktop\S.I.M.S\DBMS_proj\DBMS_proj\bin\Release\DBMS_proj.exe.manifest
+D:\Users\!TK!\Desktop\S.I.M.S\DBMS_proj\DBMS_proj\bin\Release\DBMS_proj.application
+D:\Users\!TK!\Desktop\S.I.M.S\DBMS_proj\DBMS_proj\bin\Release\DBMS_proj.exe
+D:\Users\!TK!\Desktop\S.I.M.S\DBMS_proj\DBMS_proj\bin\Release\DBMS_proj.pdb
+D:\Users\!TK!\Desktop\S.I.M.S\DBMS_proj\DBMS_proj\bin\Release\DBMS_proj.xml
+D:\Users\!TK!\Desktop\S.I.M.S\DBMS_proj\DBMS_proj\obj\Release\ResolveAssemblyReference.cache
+D:\Users\!TK!\Desktop\S.I.M.S\DBMS_proj\DBMS_proj\obj\Release\WindowsApplication1.AboutBox1.resources
+D:\Users\!TK!\Desktop\S.I.M.S\DBMS_proj\DBMS_proj\obj\Release\WindowsApplication1.admin_window.resources
+D:\Users\!TK!\Desktop\S.I.M.S\DBMS_proj\DBMS_proj\obj\Release\WindowsApplication1.assignment.resources
+D:\Users\!TK!\Desktop\S.I.M.S\DBMS_proj\DBMS_proj\obj\Release\WindowsApplication1.Edit_staff_det.resources
+D:\Users\!TK!\Desktop\S.I.M.S\DBMS_proj\DBMS_proj\obj\Release\WindowsApplication1.Edit_stud_det.resources
+D:\Users\!TK!\Desktop\S.I.M.S\DBMS_proj\DBMS_proj\obj\Release\WindowsApplication1.chngpwd.resources
+D:\Users\!TK!\Desktop\S.I.M.S\DBMS_proj\DBMS_proj\obj\Release\WindowsApplication1.maketest.resources
+D:\Users\!TK!\Desktop\S.I.M.S\DBMS_proj\DBMS_proj\obj\Release\WindowsApplication1.newadmission.resources
+D:\Users\!TK!\Desktop\S.I.M.S\DBMS_proj\DBMS_proj\obj\Release\WindowsApplication1.newstafff.resources
+D:\Users\!TK!\Desktop\S.I.M.S\DBMS_proj\DBMS_proj\obj\Release\WindowsApplication1.posttest1.resources
+D:\Users\!TK!\Desktop\S.I.M.S\DBMS_proj\DBMS_proj\obj\Release\WindowsApplication1.post_assgn.resources
+D:\Users\!TK!\Desktop\S.I.M.S\DBMS_proj\DBMS_proj\obj\Release\WindowsApplication1.LoginForm1.resources
+D:\Users\!TK!\Desktop\S.I.M.S\DBMS_proj\DBMS_proj\obj\Release\WindowsApplication1.Resources.resources
+D:\Users\!TK!\Desktop\S.I.M.S\DBMS_proj\DBMS_proj\obj\Release\WindowsApplication1.Staff.resources
+D:\Users\!TK!\Desktop\S.I.M.S\DBMS_proj\DBMS_proj\obj\Release\WindowsApplication1.Student.resources
+D:\Users\!TK!\Desktop\S.I.M.S\DBMS_proj\DBMS_proj\obj\Release\WindowsApplication1.test1.resources
+D:\Users\!TK!\Desktop\S.I.M.S\DBMS_proj\DBMS_proj\obj\Release\WindowsApplication1.testform.resources
+D:\Users\!TK!\Desktop\S.I.M.S\DBMS_proj\DBMS_proj\obj\Release\DBMS_proj.vbproj.GenerateResource.Cache
+D:\Users\!TK!\Desktop\S.I.M.S\DBMS_proj\DBMS_proj\obj\Release\DBMS_proj.exe.manifest
+D:\Users\!TK!\Desktop\S.I.M.S\DBMS_proj\DBMS_proj\obj\Release\DBMS_proj.application
+D:\Users\!TK!\Desktop\S.I.M.S\DBMS_proj\DBMS_proj\obj\Release\DBMS_proj.exe
+D:\Users\!TK!\Desktop\S.I.M.S\DBMS_proj\DBMS_proj\obj\Release\DBMS_proj.xml
+D:\Users\!TK!\Desktop\S.I.M.S\DBMS_proj\DBMS_proj\obj\Release\DBMS_proj.pdb
+C:\StuDiEz\3rd Yr\S.I.M.S\DBMS_proj\DBMS_proj\bin\Release\database.accdb
+C:\StuDiEz\3rd Yr\S.I.M.S\DBMS_proj\DBMS_proj\bin\Release\DBMS_proj.exe.config
+C:\StuDiEz\3rd Yr\S.I.M.S\DBMS_proj\DBMS_proj\bin\Release\DBMS_proj.exe.manifest
+C:\StuDiEz\3rd Yr\S.I.M.S\DBMS_proj\DBMS_proj\bin\Release\DBMS_proj.application
+C:\StuDiEz\3rd Yr\S.I.M.S\DBMS_proj\DBMS_proj\bin\Release\DBMS_proj.exe
+C:\StuDiEz\3rd Yr\S.I.M.S\DBMS_proj\DBMS_proj\bin\Release\DBMS_proj.pdb
+C:\StuDiEz\3rd Yr\S.I.M.S\DBMS_proj\DBMS_proj\bin\Release\DBMS_proj.xml
+C:\StuDiEz\3rd Yr\S.I.M.S\DBMS_proj\DBMS_proj\obj\Release\ResolveAssemblyReference.cache
+C:\StuDiEz\3rd Yr\S.I.M.S\DBMS_proj\DBMS_proj\obj\Release\WindowsApplication1.AboutBox1.resources
+C:\StuDiEz\3rd Yr\S.I.M.S\DBMS_proj\DBMS_proj\obj\Release\WindowsApplication1.admin_window.resources
+C:\StuDiEz\3rd Yr\S.I.M.S\DBMS_proj\DBMS_proj\obj\Release\WindowsApplication1.assignment.resources
+C:\StuDiEz\3rd Yr\S.I.M.S\DBMS_proj\DBMS_proj\obj\Release\WindowsApplication1.Edit_staff_det.resources
+C:\StuDiEz\3rd Yr\S.I.M.S\DBMS_proj\DBMS_proj\obj\Release\WindowsApplication1.Edit_stud_det.resources
+C:\StuDiEz\3rd Yr\S.I.M.S\DBMS_proj\DBMS_proj\obj\Release\WindowsApplication1.chngpwd.resources
+C:\StuDiEz\3rd Yr\S.I.M.S\DBMS_proj\DBMS_proj\obj\Release\WindowsApplication1.maketest.resources
+C:\StuDiEz\3rd Yr\S.I.M.S\DBMS_proj\DBMS_proj\obj\Release\WindowsApplication1.newadmission.resources
+C:\StuDiEz\3rd Yr\S.I.M.S\DBMS_proj\DBMS_proj\obj\Release\WindowsApplication1.newstafff.resources
+C:\StuDiEz\3rd Yr\S.I.M.S\DBMS_proj\DBMS_proj\obj\Release\WindowsApplication1.posttest1.resources
+C:\StuDiEz\3rd Yr\S.I.M.S\DBMS_proj\DBMS_proj\obj\Release\WindowsApplication1.post_assgn.resources
+C:\StuDiEz\3rd Yr\S.I.M.S\DBMS_proj\DBMS_proj\obj\Release\WindowsApplication1.LoginForm1.resources
+C:\StuDiEz\3rd Yr\S.I.M.S\DBMS_proj\DBMS_proj\obj\Release\WindowsApplication1.Resources.resources
+C:\StuDiEz\3rd Yr\S.I.M.S\DBMS_proj\DBMS_proj\obj\Release\WindowsApplication1.Staff.resources
+C:\StuDiEz\3rd Yr\S.I.M.S\DBMS_proj\DBMS_proj\obj\Release\WindowsApplication1.Student.resources
+C:\StuDiEz\3rd Yr\S.I.M.S\DBMS_proj\DBMS_proj\obj\Release\WindowsApplication1.test1.resources
+C:\StuDiEz\3rd Yr\S.I.M.S\DBMS_proj\DBMS_proj\obj\Release\WindowsApplication1.testform.resources
+C:\StuDiEz\3rd Yr\S.I.M.S\DBMS_proj\DBMS_proj\obj\Release\DBMS_proj.vbproj.GenerateResource.Cache
+C:\StuDiEz\3rd Yr\S.I.M.S\DBMS_proj\DBMS_proj\obj\Release\DBMS_proj.exe.manifest
+C:\StuDiEz\3rd Yr\S.I.M.S\DBMS_proj\DBMS_proj\obj\Release\DBMS_proj.application
+C:\StuDiEz\3rd Yr\S.I.M.S\DBMS_proj\DBMS_proj\obj\Release\DBMS_proj.exe
+C:\StuDiEz\3rd Yr\S.I.M.S\DBMS_proj\DBMS_proj\obj\Release\DBMS_proj.xml
+C:\StuDiEz\3rd Yr\S.I.M.S\DBMS_proj\DBMS_proj\obj\Release\DBMS_proj.pdb
